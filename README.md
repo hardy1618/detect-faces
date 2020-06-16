@@ -1,3 +1,7 @@
+An app that detects faces, based on the following model: https://github.com/tensorflow/tfjs-models/tree/master/facemesh. 
+
+The technologies involved in making the application are threeJS, React funcitional components, hooks, apollographql, hasura and postgreSQL.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
